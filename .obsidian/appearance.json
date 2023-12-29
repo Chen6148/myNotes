@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "Courier New",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSize": 17,
+  "cssTheme": "Typora-Vue",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "koala-note-style"
+  ]
+}

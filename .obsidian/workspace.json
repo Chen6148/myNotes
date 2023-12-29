@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "27c552c5de0af22f",
+    "type": "split",
+    "children": [
+      {
+        "id": "63fe2c294824082f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "501daf250efbb50e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/读书笔记3-《C++ Primer Plus》.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3726bfcb978677f",
+    "type": "split",
+    "children": [
+      {
+        "id": "854c0a9b95d65366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9d9dde4834fafdf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e326f488994b0735",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9538f7aa84f31330",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#nice",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "241d911fe62667ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "405dc65c3a05e848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ea93d4cb3d3e9be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/读书笔记3-《C++ Primer Plus》.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14ceb5687f516e80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++/读书笔记3-《C++ Primer Plus》.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b58fc2bd50a0bdae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ebf72170edf3dd53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++/读书笔记3-《C++ Primer Plus》.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "pkmer:Open Pkmer Market": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "501daf250efbb50e",
+  "lastOpenFiles": [
+    "C++/读书笔记1-《C++ Primer Plus》.md",
+    "C++/读书笔记2-《C++ Primer Plus》.md",
+    "C++/读书笔记3-《C++ Primer Plus》.md",
+    "未命名.canvas",
+    "未命名.md",
+    "未命名 1.canvas",
+    "C++/images/《C++ Primer Plus》第2章思维导图.png",
+    "C++/images/《C++ Primer Plus》第1章思维导图.png",
+    "Theme.md",
+    "2023-12-21.md",
+    "C++/images/第2章.png.crdownload",
+    "未命名",
+    "C++/images",
+    "第1章1 1.png.md",
+    "第1章1 1.png",
+    "desktop.ini",
+    "C++"
+  ]
+}
