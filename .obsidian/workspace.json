@@ -11,9 +11,11 @@
             "id": "501daf250efbb50e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "C++/images/《C++ Primer Plus》第2章思维导图.png"
+                "file": "C++/读书笔记3-《C++ Primer Plus》.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/images/《C++ Primer Plus》第2章思维导图.png",
+                "file": "C++/读书笔记3-《C++ Primer Plus》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/images/《C++ Primer Plus》第2章思维导图.png",
+                "file": "C++/读书笔记3-《C++ Primer Plus》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/images/《C++ Primer Plus》第2章思维导图.png"
+                "file": "C++/读书笔记3-《C++ Primer Plus》.md"
               }
             }
           }
@@ -142,16 +144,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "501daf250efbb50e",
+  "active": "f9d9dde4834fafdf",
   "lastOpenFiles": [
+    "C++/读书笔记2-《C++ Primer Plus》.md",
+    "C++/images/《C++ Primer Plus》第2章思维导图.png",
     "C++/images/《C++ Primer Plus》第1章思维导图.png",
     "C++/读书笔记3-《C++ Primer Plus》.md",
     "C++/读书笔记1-《C++ Primer Plus》.md",
-    "C++/读书笔记2-《C++ Primer Plus》.md",
     "未命名.canvas",
     "未命名.md",
     "未命名 1.canvas",
-    "C++/images/《C++ Primer Plus》第2章思维导图.png",
     "Theme.md",
     "2023-12-21.md",
     "C++/images/第2章.png.crdownload",
