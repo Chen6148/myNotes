@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26ef8da08dc8500d",
+            "type": "leaf",
+            "state": {
+              "type": "pkmer-downloader",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +153,7 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "e42e84b680101d6f",
+  "active": "26ef8da08dc8500d",
   "lastOpenFiles": [
     "C++/images/《C++ Primer Plus》第2章思维导图.png",
     "C++/images/《C++ Primer Plus》第1章思维导图.png",
