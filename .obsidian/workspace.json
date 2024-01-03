@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "501daf250efbb50e",
+            "id": "e42e84b680101d6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "C++/读书笔记3-《C++ Primer Plus》.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,17 +140,17 @@
     "hiddenItems": {
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "pkmer:Open Pkmer Market": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "f9d9dde4834fafdf",
+  "active": "e42e84b680101d6f",
   "lastOpenFiles": [
-    "C++/读书笔记2-《C++ Primer Plus》.md",
     "C++/images/《C++ Primer Plus》第2章思维导图.png",
     "C++/images/《C++ Primer Plus》第1章思维导图.png",
-    "C++/读书笔记3-《C++ Primer Plus》.md",
     "C++/读书笔记1-《C++ Primer Plus》.md",
+    "C++/读书笔记3-《C++ Primer Plus》.md",
+    "C++/读书笔记2-《C++ Primer Plus》.md",
     "未命名.canvas",
     "未命名.md",
     "未命名 1.canvas",
