@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"1eba8b1a302152fe","type":"text","text":"面向对象编程（OOP）的本质是设计并扩展自己的数据类型。\n设计自己的数据类型就是让类型与数据匹配。","x":-660,"y":-630,"width":326,"height":140},
+		{"id":"f15a6feaed86d515","type":"text","text":"C++内置的数据类型分为：基本类型和复合类型；\n基本类型是整数和浮点数。","x":-240,"y":-604,"width":312,"height":114},
+		{"id":"1586ead37225f225","type":"text","text":"程序需要一种标识存储的数据的方法 -- 使用变量","x":180,"y":-568,"width":274,"height":78,"color":"4"},
+		{"id":"2360f2d2adfc0ac9","type":"text","text":">如何使用变量？\n\n**声明变量** -- 在声明中，使用类型描述了信息的类型，通过符号来表示其值的变量名。","x":680,"y":-658,"width":285,"height":180},
+		{"id":"784bbf22ef7e4fd5","type":"text","text":"**变量名** -- C++提倡使用有一定含义的变量名；\n\n>C++变量名的命名规则：\n\n· 在变量名称中，只能使用字母、数字和下划线;\n· 变量名称的第一个字符不能是数字。\n· 区分大写字符与小写字符；\n· 不能将C++关键字用作变量名称；\n· 以两个下划线和大写字符开头的名称被保留给实现（编译器及其使用的资源）使用。\n· 以一个下划线开头的名称被保留给实现，用作全局表示符；\n· C++对于变量名称的长度没有限制，名称中所有的字符都是有意义的，但有些平台有长度限制。","x":1160,"y":-347,"width":560,"height":389},
+		{"id":"0711f5b0f259b581","type":"text","text":"**整型数据**的定义\n整型数据（整数）就是指没有小数部分的数字，如2、98、-520和0。","x":-274,"y":-380,"width":380,"height":108,"color":"4"},
+		{"id":"6580b3eca65ee7e5","type":"text","text":"术语**宽度**用来表述存储**整数**时使用的内存量；使用的内存越多，则宽度越大。","x":-760,"y":-240,"width":370,"height":72},
+		{"id":"59f9488f34d2fd80","type":"text","text":"**整数**的基本类型（按宽度递增的顺序排列）：`char`、`short`、`int`、`long`、`long long` (C++11)，其中每个类型又有有符号类型和无符号类型，总共10种数据类型。","x":-274,"y":-168,"width":380,"height":168},
+		{"id":"78f393a4e1739e2a","type":"text","text":">计算机**内存**是有一些叫做**位(bit)** 的单元组成。\n\n计算机内存的基本单元是**位**，可以将**位**看作电子开关，可以开、也可以关，关的状态值可以表示为0，开的状态值可以表示为1。\n\n>**思考**：计算机使用芯片进行计算，而芯片是由大量晶体管组成，所有计算机使用二进制。\n\n8位的内存块可以设置出256种不同的组合，因为每一位有两种状态，所以8位的总组合数=2x2x2x2x2x2x2x2(2的8次方)=256。\n因此，8位的内存单元可以表示0~255或-128~127","x":-894,"y":-95,"width":560,"height":355},
+		{"id":"bff6110f230e0306","type":"text","text":"**字节(byte)** 通常指的是8**位**的内存单元；因此，**字节**就作为描述计算机内存量的度量单位，1KB=1024B（字节），1MB=1024KB。","x":-894,"y":300,"width":560,"height":120},
+		{"id":"86a5da7cd0ab4b4f","type":"text","text":">不同**整数**的类型所占用的内存量:\n\n`short` -- 至少16位\n`int` -- 16位（取值范围：-32768~32767）\n`long` -- 至少32位\n`long long` -- 至少64位","x":-274,"y":73,"width":474,"height":227},
+		{"id":"15f9f89d9ef293a3","type":"text","text":"《C++ Primer Plus》\n第3章 处理数据","x":-1080,"y":-630,"width":260,"height":83,"color":"1"},
+		{"id":"0c7cc1a6eaab20ab","x":-318,"y":360,"width":378,"height":180,"type":"text","text":">如何检查数据类型的长度？\n\n在C++程序中，**sizeof运算符**和**climits头文件**两个C++工具可以用来检查数据类型的长度。"},
+		{"id":"315f4d3df3f02941","x":153,"y":331,"width":250,"height":60,"type":"text","text":"**sizeof运算符**\n"},
+		{"id":"9dafa4b7973cfec2","x":157,"y":494,"width":250,"height":60,"type":"text","text":"**climits头文件**"}
+	],
+	"edges":[
+		{"id":"42d6c8bede305987","fromNode":"15f9f89d9ef293a3","fromSide":"right","toNode":"1eba8b1a302152fe","toSide":"left"},
+		{"id":"ba16219b57a9b9e4","fromNode":"1eba8b1a302152fe","fromSide":"right","toNode":"f15a6feaed86d515","toSide":"left"},
+		{"id":"fcc5c87fd38eb405","fromNode":"f15a6feaed86d515","fromSide":"right","toNode":"1586ead37225f225","toSide":"left"},
+		{"id":"96f2bc2f35783422","fromNode":"f15a6feaed86d515","fromSide":"bottom","toNode":"0711f5b0f259b581","toSide":"top"},
+		{"id":"599f00d12976797c","fromNode":"0711f5b0f259b581","fromSide":"bottom","toNode":"59f9488f34d2fd80","toSide":"top"},
+		{"id":"305972481de0e004","fromNode":"1586ead37225f225","fromSide":"right","toNode":"2360f2d2adfc0ac9","toSide":"left"},
+		{"id":"5b014bc5a2547a3d","fromNode":"2360f2d2adfc0ac9","fromSide":"right","toNode":"784bbf22ef7e4fd5","toSide":"top"},
+		{"id":"2b9acd6a2155d849","fromNode":"0711f5b0f259b581","fromSide":"left","toNode":"6580b3eca65ee7e5","toSide":"right"},
+		{"id":"30eb90ef5276140d","fromNode":"6580b3eca65ee7e5","fromSide":"bottom","toNode":"78f393a4e1739e2a","toSide":"top"},
+		{"id":"90fae56d1b4fba3a","fromNode":"78f393a4e1739e2a","fromSide":"bottom","toNode":"bff6110f230e0306","toSide":"top"},
+		{"id":"c098c41e1f87f788","fromNode":"59f9488f34d2fd80","fromSide":"bottom","toNode":"86a5da7cd0ab4b4f","toSide":"top"},
+		{"id":"279fe96c62fa3862","fromNode":"86a5da7cd0ab4b4f","fromSide":"bottom","toNode":"0c7cc1a6eaab20ab","toSide":"top"},
+		{"id":"cd7fef8d4f981196","fromNode":"0c7cc1a6eaab20ab","fromSide":"right","toNode":"315f4d3df3f02941","toSide":"left"},
+		{"id":"66e17092f3a9becc","fromNode":"0c7cc1a6eaab20ab","fromSide":"right","toNode":"9dafa4b7973cfec2","toSide":"left"}
+	]
+}

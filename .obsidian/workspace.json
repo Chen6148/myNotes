@@ -8,27 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e42e84b680101d6f",
+            "id": "368f2df85b6f6045",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "C++/读书笔记3-《C++ Primer Plus》.md",
-                "mode": "source",
-                "source": false
+                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
+                "viewState": {
+                  "x": 261.47240245022874,
+                  "y": -299.82995438127034,
+                  "zoom": -2.111111043294271
+                }
               }
             }
-          },
-          {
-            "id": "26ef8da08dc8500d",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 325.49999618530273,
+    "collapsed": true
   },
   "right": {
     "id": "241d911fe62667ee",
@@ -94,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/读书笔记3-《C++ Primer Plus》.md",
+                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/读书笔记3-《C++ Primer Plus》.md",
+                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/读书笔记3-《C++ Primer Plus》.md"
+                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas"
               }
             }
           }
@@ -149,24 +144,28 @@
     "hiddenItems": {
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "command-palette:打开命令面板": false,
-      "pkmer:Open Pkmer Market": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "26ef8da08dc8500d",
+  "active": "368f2df85b6f6045",
   "lastOpenFiles": [
+    "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记1-《C++ Primer Plus》.md",
+    "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
+    "读书笔记/《C++ Primer Plus》/读书笔记",
+    "读书笔记/《C++ Primer Plus》/知识卡片",
+    "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记3-《C++ Primer Plus》.md",
+    "读书笔记",
+    "读书笔记/《C++ Primer Plus》",
+    "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记2-《C++ Primer Plus》.md",
+    "Excalidraw/Drawing 2024-01-06 14.59.49.excalidraw.md",
+    "Excalidraw",
     "C++/images/《C++ Primer Plus》第2章思维导图.png",
     "C++/images/《C++ Primer Plus》第1章思维导图.png",
-    "C++/读书笔记1-《C++ Primer Plus》.md",
-    "C++/读书笔记3-《C++ Primer Plus》.md",
-    "C++/读书笔记2-《C++ Primer Plus》.md",
-    "未命名.canvas",
     "未命名.md",
     "未命名 1.canvas",
     "Theme.md",
     "2023-12-21.md",
     "C++/images/第2章.png.crdownload",
-    "未命名",
     "C++/images",
     "第1章1 1.png.md",
     "第1章1 1.png",
