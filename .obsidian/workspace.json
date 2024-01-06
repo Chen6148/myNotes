@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "63fe2c294824082f",
+        "id": "5ed2783ccfc0b519",
         "type": "tabs",
         "children": [
           {
-            "id": "368f2df85b6f6045",
+            "id": "461e2199d97b3380",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
-                "viewState": {
-                  "x": 261.47240245022874,
-                  "y": -299.82995438127034,
-                  "zoom": -2.111111043294271
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
-<<<<<<< HEAD
           }
         ]
-=======
-          },
-          {
-            "id": "26ef8da08dc8500d",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {}
-            }
-          },
-          {
-            "id": "c728be95e20f6fc2",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {}
-            }
-          },
-          {
-            "id": "fc885e60219e1cb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/读书笔记3-《C++ Primer Plus》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
->>>>>>> 41ba0fa25bada0a676f8f6c979bc345cc0771e1b
       }
     ],
     "direction": "vertical"
@@ -106,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.49999618530273,
-    "collapsed": true
+    "width": 325.49999618530273
   },
   "right": {
     "id": "241d911fe62667ee",
@@ -123,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -178,42 +132,24 @@
     "hiddenItems": {
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-<<<<<<< HEAD
       "command-palette:打开命令面板": false
     }
   },
-  "active": "368f2df85b6f6045",
+  "active": "461e2199d97b3380",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记3-《C++ Primer Plus》.md",
+    "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记2-《C++ Primer Plus》.md",
     "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记1-《C++ Primer Plus》.md",
     "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
     "读书笔记/《C++ Primer Plus》/读书笔记",
     "读书笔记/《C++ Primer Plus》/知识卡片",
-    "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记3-《C++ Primer Plus》.md",
     "读书笔记",
     "读书笔记/《C++ Primer Plus》",
-    "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记2-《C++ Primer Plus》.md",
     "Excalidraw/Drawing 2024-01-06 14.59.49.excalidraw.md",
     "Excalidraw",
     "C++/images/《C++ Primer Plus》第2章思维导图.png",
     "C++/images/《C++ Primer Plus》第1章思维导图.png",
-=======
-      "command-palette:打开命令面板": false,
-      "pkmer:Open Pkmer Market": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
-    }
-  },
-  "active": "fc885e60219e1cb0",
-  "lastOpenFiles": [
-    "C++/读书笔记2-《C++ Primer Plus》.md",
-    "C++/读书笔记1-《C++ Primer Plus》.md",
-    "C++/读书笔记3-《C++ Primer Plus》.md",
-    "Excalidraw/Drawing 2024-01-04 12.27.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-04 12.27.19.excalidraw.md",
-    "Excalidraw",
-    "C++/images/《C++ Primer Plus》第2章思维导图.png",
-    "C++/images/《C++ Primer Plus》第1章思维导图.png",
-    "未命名.canvas",
->>>>>>> 41ba0fa25bada0a676f8f6c979bc345cc0771e1b
     "未命名.md",
     "未命名 1.canvas",
     "Theme.md",
