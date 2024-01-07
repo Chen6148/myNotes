@@ -6,14 +6,42 @@
       {
         "id": "5ed2783ccfc0b519",
         "type": "tabs",
+        "dimension": 70.01366120218579,
         "children": [
           {
-            "id": "461e2199d97b3380",
+            "id": "4e7e595c0a4411ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "速查手册/Git&Github操作指令速查手册.md",
+                "file": "读书笔记/《C++ Primer Plus》/读书笔记/第1章 预备知识.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a403ce9ae2cd087",
+            "type": "leaf",
+            "state": {
+              "type": "pkmer-downloader",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c8935830a590b5a3",
+        "type": "tabs",
+        "dimension": 29.986338797814206,
+        "children": [
+          {
+            "id": "894b1dadb331a1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/《C++ Primer Plus》/读书笔记/第2章 开始学习C++.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.49999618530273
+    "width": 363.49999618530273,
+    "collapsed": true
   },
   "right": {
     "id": "241d911fe62667ee",
@@ -85,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "速查手册/Git&Github操作指令速查手册.md",
+                "file": "读书笔记/《C++ Primer Plus》/读书笔记/第1章 预备知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "速查手册/Git&Github操作指令速查手册.md",
+                "file": "读书笔记/《C++ Primer Plus》/读书笔记/第1章 预备知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "速查手册/Git&Github操作指令速查手册.md"
+                "file": "读书笔记/《C++ Primer Plus》/读书笔记/第1章 预备知识.md"
               }
             }
           }
@@ -134,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,19 +173,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "461e2199d97b3380",
+  "active": "4e7e595c0a4411ef",
   "lastOpenFiles": [
+    "读书笔记/《C++ Primer Plus》/读书笔记/第1章 预备知识.md",
+    "读书笔记/《C++ Primer Plus》/读书笔记/第2章 开始学习C++.md",
+    "读书笔记/《C++ Primer Plus》/读书笔记/第3章 处理数据.md",
+    "速查手册/Git&Github操作指令速查手册.md",
     "速查手册/Vim操作指令速查手册.md",
     "速查手册/Linux(Bash)操作指令速查手册.md",
-    "速查手册/Git&Github操作指令速查手册.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "速查手册/Windows(CMD)操作指令速查手册.md",
     "速查手册/未命名",
     "速查手册",
-    "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记3-《C++ Primer Plus》.md",
-    "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记2-《C++ Primer Plus》.md",
-    "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记1-《C++ Primer Plus》.md",
     "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
     "读书笔记/《C++ Primer Plus》/读书笔记",
     "读书笔记/《C++ Primer Plus》/知识卡片",
