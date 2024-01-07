@@ -11,8 +11,12 @@
             "id": "461e2199d97b3380",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "速查手册/Git&Github操作指令速查手册.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "速查手册/Git&Github操作指令速查手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "速查手册/Git&Github操作指令速查手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "速查手册/Git&Github操作指令速查手册.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,7 +145,14 @@
   },
   "active": "461e2199d97b3380",
   "lastOpenFiles": [
+    "速查手册/Vim操作指令速查手册.md",
+    "速查手册/Linux(Bash)操作指令速查手册.md",
+    "速查手册/Git&Github操作指令速查手册.md",
+    "未命名 1.canvas",
     "未命名.canvas",
+    "速查手册/Windows(CMD)操作指令速查手册.md",
+    "速查手册/未命名",
+    "速查手册",
     "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记3-《C++ Primer Plus》.md",
     "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记2-《C++ Primer Plus》.md",
     "读书笔记/《C++ Primer Plus》/读书笔记/读书笔记1-《C++ Primer Plus》.md",
@@ -150,15 +165,12 @@
     "Excalidraw",
     "C++/images/《C++ Primer Plus》第2章思维导图.png",
     "C++/images/《C++ Primer Plus》第1章思维导图.png",
-    "未命名.md",
-    "未命名 1.canvas",
     "Theme.md",
     "2023-12-21.md",
     "C++/images/第2章.png.crdownload",
     "C++/images",
     "第1章1 1.png.md",
     "第1章1 1.png",
-    "desktop.ini",
-    "C++"
+    "desktop.ini"
   ]
 }
