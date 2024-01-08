@@ -11,9 +11,14 @@
             "id": "c9f0a24b98c60924",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "速查手册/Excalidraw/git工作原理图.excalidraw.md"
+                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
+                "viewState": {
+                  "x": 646.4994378664894,
+                  "y": -669.6288825743914,
+                  "zoom": -0.7312057188090322
+                }
               }
             }
           }
@@ -67,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "28a8fc79ae172296",
@@ -83,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "速查手册/Excalidraw/git工作原理图.excalidraw.md",
+                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "速查手册/Excalidraw/git工作原理图.excalidraw.md",
+                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "速查手册/Excalidraw/git工作原理图.excalidraw.md"
+                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas"
               }
             }
           }
@@ -142,13 +148,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9bb51708af9c3c96",
+  "active": "c9f0a24b98c60924",
   "lastOpenFiles": [
+    "速查手册/Excalidraw/git工作原理图.excalidraw.md",
     "速查手册/Git&Github操作指令速查手册.md",
     "C++/images/Pasted Image 20240108103437_329.png",
     "速查手册/Linux(Bash)操作指令速查手册.md",
     "速查手册/Vim操作指令速查手册.md",
-    "速查手册/Excalidraw/git工作原理图.excalidraw.md",
     "速查手册/Drawing 2024-01-08 12.33.46.excalidraw.md",
     "Pasted image 20240108102730.png",
     "速查手册/Windows(CMD)操作指令速查手册.md",

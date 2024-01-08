@@ -5,7 +5,7 @@
   "textFontFamily": "Courier New",
   "monospaceFontFamily": "Consolas",
   "baseFontSize": 13,
-  "cssTheme": "Typora-Vue",
+  "cssTheme": "Maple",
   "translucency": false,
   "enabledCssSnippets": [
     "koala-note-style"
