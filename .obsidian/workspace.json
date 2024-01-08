@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63fe2c294824082f",
+        "id": "e5e54dbbaaae2c0c",
         "type": "tabs",
         "children": [
           {
-            "id": "e42e84b680101d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/读书笔记3-《C++ Primer Plus》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26ef8da08dc8500d",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {}
-            }
-          },
-          {
-            "id": "c728be95e20f6fc2",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {}
-            }
-          },
-          {
-            "id": "fc885e60219e1cb0",
+            "id": "a4f18185c822c3d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,11 +145,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fc885e60219e1cb0",
+  "active": "a4f18185c822c3d3",
   "lastOpenFiles": [
-    "C++/读书笔记2-《C++ Primer Plus》.md",
     "C++/读书笔记1-《C++ Primer Plus》.md",
     "C++/读书笔记3-《C++ Primer Plus》.md",
+    "C++/读书笔记2-《C++ Primer Plus》.md",
     "Excalidraw/Drawing 2024-01-04 12.27.36.excalidraw.md",
     "Excalidraw/Drawing 2024-01-04 12.27.19.excalidraw.md",
     "Excalidraw",
