@@ -4,7 +4,7 @@
   "interfaceFontFamily": "Consolas",
   "textFontFamily": "Courier New",
   "monospaceFontFamily": "Consolas",
-  "baseFontSize": 17,
+  "baseFontSize": 13,
   "cssTheme": "Typora-Vue",
   "translucency": false,
   "enabledCssSnippets": [
