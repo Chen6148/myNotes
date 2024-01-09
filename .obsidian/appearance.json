@@ -4,8 +4,8 @@
   "interfaceFontFamily": "Consolas",
   "textFontFamily": "Courier New",
   "monospaceFontFamily": "Consolas",
-  "baseFontSize": 13,
-  "cssTheme": "Maple",
+  "baseFontSize": 12,
+  "cssTheme": "Typora-Vue",
   "translucency": false,
   "enabledCssSnippets": [
     "koala-note-style"

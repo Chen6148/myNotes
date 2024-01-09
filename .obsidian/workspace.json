@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c96a42271983ff",
+        "id": "c95ab03fa1b3ca6c",
         "type": "tabs",
         "children": [
           {
-            "id": "c9f0a24b98c60924",
+            "id": "88edda93ff659603",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
-                "viewState": {
-                  "x": 646.4994378664894,
-                  "y": -669.6288825743914,
-                  "zoom": -0.7312057188090322
-                }
+                "file": "速查手册/Latex公式速查手册.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
+                "file": "速查手册/Latex公式速查手册.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
+                "file": "速查手册/Latex公式速查手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas"
+                "file": "速查手册/Latex公式速查手册.md"
               }
             }
           }
@@ -148,8 +145,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c9f0a24b98c60924",
+  "active": "88edda93ff659603",
   "lastOpenFiles": [
+    "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
+    "读书笔记/《C++ Primer Plus》/读书笔记/第2章 开始学习C++.md",
+    "速查手册/Latex公式速查手册.md",
+    "未命名.canvas",
     "速查手册/Excalidraw/git工作原理图.excalidraw.md",
     "速查手册/Git&Github操作指令速查手册.md",
     "C++/images/Pasted Image 20240108103437_329.png",
@@ -160,7 +161,6 @@
     "速查手册/Windows(CMD)操作指令速查手册.md",
     "C++/images",
     "C++",
-    "速查手册/Excalidraw",
-    "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas"
+    "速查手册/Excalidraw"
   ]
 }
