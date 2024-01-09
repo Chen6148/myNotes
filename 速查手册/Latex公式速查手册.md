@@ -10,14 +10,26 @@
 | 百分号 | $\%$ | \\% |
 | 根号 | $\sqrt{x}$ | \\sqrt{x} |
 | 分式 | $\frac{x}{y}$ | \\frac{x}{y} |
-|单字符上标| $x^2$ | x^2 |
-|单字符下标| $x_1$ | x_1 |
-|多字符上标| $x^{21}$ | x^{21} |
-|多字符下标| $x_{i, j}$ | x_{i, j} |
-|向量| $\vec{a}$ | \\vec{a} |
-|多字符向量（箭头向右）| $\overrightarrow{AB}$| \\overrightarrow{AB} |
-|多字符向量（箭头向右）| $\overleftarrow{CD}$| \\overleftarrow{CD} |
+| 单字符上标 | $x^2$ | x^2 |
+| 单字符下标 | $x_1$ | x_1 |
+| 多字符上标 | $x^{21}$ | x^{21} |
+| 多字符下标 | $x_{i, j}$ | x_{i, j} |
+| 向量 | $\vec{a}$ | \\vec{a} |
+| 多字符向量（箭头向右） | $\overrightarrow{AB}$ | \\overrightarrow{AB} |
+| 多字符向量（箭头向右） | $\overleftarrow{CD}$ | \\overleftarrow{CD} |
+| 重音符号1 | $\hat{x}$ | \\hat{x} |
+| 重音符号2 | $\bar{x}$ | \\bar{x} |
+| 重音符号3 | $\tilde{x}$ | \\tilde{x} |
+| 三圆点（水平底部） | $\ldots$ | \\ldots |
+| 三圆点（水平居中） | $\cdots$ | \\cdots |
+| 三圆点（垂直） | $\vdots$ | \\vdots |
+| 三圆点（对角线） | $\ddots$ | \\ddots |
+
 ### 2.数学表达式
+极限+积分+求和+乘积
+
+$$  \lim_{x \to \infty} x^2_{22} - \int_{1}^{5}x\mathrm{d}x + \sum_{n=1}^{20} n^{2} = \prod_{j=1}^{3} y_{j}  + \lim_{x \to -2} \frac{x-2}{x} $$
+
 2.1 **积分**
 
 2.2 **极限**
@@ -28,7 +40,43 @@
 
 2.5 **上下标记**
 
+
+$$\overline{x+y} \qquad \underline{a+b}$$
+
+
+$$\overbrace{1+2+\cdots+n}^{n个} \qquad \underbrace{a+b+\cdots+z}_{26}$$
+
 2.6 **矩阵运算**
+latex矩阵主要是通过**矩阵环境**实现数据的矩阵排列，常见的矩阵环境有`matrix`、`bmatrix`、`vmatrix`、`pmatri`;不同的矩阵环境区别如下：
+1. matrix
+$$\begin{matrix}
+a & b  \\
+c & d  \\
+\end{matrix}$$
+
+1. bmatrix
+$$\begin{bmatrix}
+a & b  \\
+c & d  \\
+\end{bmatrix}$$
+3. vmatrix
+$$\begin{vmatrix}
+a & b  \\
+c & d  \\
+\end{vmatrix}$$
+5. pmatri
+$$\begin{pmatrix}
+a & b  \\
+c & d  \\
+\end{pmatrix}$$
+示例：
+$$\begin{bmatrix}
+1 & 2 & \cdots \\
+67 & 95 & \cdots \\
+\vdots  & \vdots & \ddots \\
+\end{bmatrix}$$
+
+
 
 ### 3.多行公式
 通过`cases`环境实现公式的组合，`&`分隔公式和条件，还可以通过`\limits`来让`x→0`位于`lim`的正下方而非默认在`lim`符号的右下方显示;

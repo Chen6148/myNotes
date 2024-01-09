@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c95ab03fa1b3ca6c",
+        "id": "72c737450eb3e242",
         "type": "tabs",
         "children": [
           {
-            "id": "88edda93ff659603",
+            "id": "c0532c6dbfafaacb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "速查手册/Latex公式速查手册.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "速查手册/Latex公式速查手册.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "速查手册/Latex公式速查手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "速查手册/Latex公式速查手册.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,14 +137,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "88edda93ff659603",
+  "active": "c0532c6dbfafaacb",
   "lastOpenFiles": [
+    "速查手册/Latex公式速查手册.md",
+    "速查手册/Git&Github操作指令速查手册.md",
+    "速查手册/Excalidraw/git工作原理图.excalidraw.md",
     "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
     "读书笔记/《C++ Primer Plus》/读书笔记/第2章 开始学习C++.md",
-    "速查手册/Latex公式速查手册.md",
     "未命名.canvas",
-    "速查手册/Excalidraw/git工作原理图.excalidraw.md",
-    "速查手册/Git&Github操作指令速查手册.md",
     "C++/images/Pasted Image 20240108103437_329.png",
     "速查手册/Linux(Bash)操作指令速查手册.md",
     "速查手册/Vim操作指令速查手册.md",
