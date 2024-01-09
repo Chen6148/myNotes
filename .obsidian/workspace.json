@@ -11,8 +11,12 @@
             "id": "c0532c6dbfafaacb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "速查手册/Latex公式速查手册.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "28a8fc79ae172296",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "速查手册/Latex公式速查手册.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "速查手册/Latex公式速查手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "速查手册/Latex公式速查手册.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,18 +146,18 @@
   },
   "active": "c0532c6dbfafaacb",
   "lastOpenFiles": [
-    "速查手册/Latex公式速查手册.md",
     "速查手册/Git&Github操作指令速查手册.md",
+    "速查手册/Latex公式速查手册.md",
+    "速查手册/Linux(Bash)操作指令速查手册.md",
+    "速查手册/Vim操作指令速查手册.md",
+    "速查手册/Windows(CMD)操作指令速查手册.md",
     "速查手册/Excalidraw/git工作原理图.excalidraw.md",
     "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
     "读书笔记/《C++ Primer Plus》/读书笔记/第2章 开始学习C++.md",
     "未命名.canvas",
     "C++/images/Pasted Image 20240108103437_329.png",
-    "速查手册/Linux(Bash)操作指令速查手册.md",
-    "速查手册/Vim操作指令速查手册.md",
     "速查手册/Drawing 2024-01-08 12.33.46.excalidraw.md",
     "Pasted image 20240108102730.png",
-    "速查手册/Windows(CMD)操作指令速查手册.md",
     "C++/images",
     "C++",
     "速查手册/Excalidraw"
