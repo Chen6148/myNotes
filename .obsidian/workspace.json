@@ -11,15 +11,34 @@
             "id": "87ea8d1c3346decb",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "速查手册/Excalidraw/VIM工作模式.md"
+              }
+            }
+          },
+          {
+            "id": "d739af1533ca5bd2",
+            "type": "leaf",
+            "state": {
+              "type": "pkmer-downloader",
+              "state": {}
+            }
+          },
+          {
+            "id": "274edd9fb5d37623",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "速查手册/Git&Github操作指令速查手册.md",
+                "file": "记录/我的记录.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "速查手册/Git&Github操作指令速查手册.md",
+                "file": "记录/我的记录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "速查手册/Git&Github操作指令速查手册.md",
+                "file": "记录/我的记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "速查手册/Git&Github操作指令速查手册.md"
+                "file": "记录/我的记录.md"
               }
             }
           }
@@ -145,22 +164,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "87ea8d1c3346decb",
+  "active": "848211731f9b23be",
   "lastOpenFiles": [
+    "速查手册/Git&Github操作指令速查手册.md",
+    "速查手册/Latex公式速查手册.md",
+    "记录/我的记录.md",
+    "记录",
+    "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
+    "速查手册/Excalidraw/VIM工作模式.md",
+    "速查手册/Excalidraw/Drawing 2024-01-11 19.13.08.excalidraw.md",
+    "速查手册/Excalidraw/GIT工作原理图.md",
     "速查手册/Linux(Bash)操作指令速查手册.md",
     "速查手册/Vim操作指令速查手册.md",
     "速查手册/Windows(CMD)操作指令速查手册.md",
-    "速查手册/Latex公式速查手册.md",
-    "读书笔记/《C++ Primer Plus》/知识卡片/第3章 处理数据.canvas",
     "读书笔记/《C++ Primer Plus》/章节笔记/第1章 预备知识.md",
     "读书笔记/《C++ Primer Plus》/章节笔记/第3章 处理数据.md",
     "读书笔记/《C++ Primer Plus》/章节笔记/第2章 开始学习C++.md",
-    "速查手册/Git&Github操作指令速查手册.md",
     "Pasted image 20240111141608.png",
     "速查手册/MindMap/VIM不同模式下的操作指令.md",
     "速查手册/MindMap",
-    "速查手册/Excalidraw/VIM工作模式.md",
-    "速查手册/Excalidraw/GIT工作原理图.md",
     "Excalidraw",
     "未命名.canvas",
     "C++/images/Pasted Image 20240108103437_329.png",
