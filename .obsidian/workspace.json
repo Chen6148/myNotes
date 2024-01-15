@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "60ba839811bd80ab",
+        "id": "330f8c1d27996ab5",
         "type": "tabs",
         "children": [
           {
-            "id": "87ea8d1c3346decb",
+            "id": "3fdccbb6f9d6e5b2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "速查手册/Excalidraw/VIM工作模式.md"
-              }
-            }
-          },
-          {
-            "id": "d739af1533ca5bd2",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "274edd9fb5d37623",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/二级建造师（机电）/A管理-《建筑工程施工管理》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/二级建造师（机电）/A管理-《建筑工程施工管理》.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/二级建造师（机电）/A管理-《建筑工程施工管理》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "读书笔记/二级建造师（机电）/A管理-《建筑工程施工管理》.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -164,11 +137,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "274edd9fb5d37623",
+  "active": "3fdccbb6f9d6e5b2",
   "lastOpenFiles": [
+    "读书笔记/二级建造师（机电）/A管理-《建筑工程施工管理》.md",
+    "读书笔记/二级建造师（机电）/Excalidraw/工程建设实施程序.md",
+    "读书笔记/二级建造师（机电）/Excalidraw/非政府投资项目实行核准制或登记备案制.md",
+    "读书笔记/二级建造师（机电）/Excalidraw/政府投资项目的审批制.md",
+    "读书笔记/二级建造师（机电）/Excalidraw/未命名.canvas",
+    "[[投资项目最低资本金比例]]].md",
+    "读书笔记/二级建造师（机电）/Excalidraw/投资项目最低资本金比例.md",
+    "[图片路径].md",
+    "读书笔记/二级建造师（机电）/Excalidraw",
     "读书笔记/二级建造师（机电）/C机电实务-《机电工程管理与实务》.md",
     "读书笔记/二级建造师（机电）/B法规-《建筑工程法规及相关知识》.md",
-    "读书笔记/二级建造师（机电）/A管理-《建筑工程施工管理》.md",
     "未命名.md",
     "记录/2024-01-11（星期四）.md",
     "读书笔记/二级建造师（机电）",
@@ -188,7 +169,6 @@
     "Pasted image 20240111141608.png",
     "速查手册/MindMap/VIM不同模式下的操作指令.md",
     "速查手册/MindMap",
-    "Excalidraw",
     "未命名.canvas",
     "C++/images/Pasted Image 20240108103437_329.png",
     "速查手册/Drawing 2024-01-08 12.33.46.excalidraw.md",

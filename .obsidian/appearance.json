@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "interfaceFontFamily": "Consolas",
-  "textFontFamily": "Courier New",
-  "monospaceFontFamily": "Consolas",
-  "baseFontSize": 12,
+  "interfaceFontFamily": "Consolas,Adobe Arabic,Adobe 宋体 Std",
+  "textFontFamily": "Courier New,Adobe 宋体 Std",
+  "monospaceFontFamily": "Consolas,Adobe 宋体 Std",
+  "baseFontSize": 16,
   "cssTheme": "Typora-Vue",
   "translucency": false,
   "enabledCssSnippets": [
